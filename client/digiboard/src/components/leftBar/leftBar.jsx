@@ -26,7 +26,7 @@ const leftBar = () => {
       </div>
 
       <a href="/" className='menuIcon'>
-          <img src="/general/messages.svg" alt="logo" />
+          <img src="/general/settings.svg" alt="logo" />
       </a>
 
     </div>
